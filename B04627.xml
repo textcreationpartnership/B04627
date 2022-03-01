@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the death of that noble knight Sr John Harman, vvho died the 11th. of October, 1673.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04627</idno>
+            <idno type="STC">Wing O308</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.3[66]</idno>
+            <idno type="EEBO-CITATION">99885197</idno>
+            <idno type="PROQUEST">ocm99885197</idno>
+            <idno type="VID">182551</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182551)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:1[66])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the death of that noble knight Sr John Harman, vvho died the 11th. of October, 1673.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) .   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year, 1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Brittainia, Queen of the ocean, bad me write ..."</note>
+                  <note>Imperfect: stained, affecting text and imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harman, John, --  Sir, d. 1673 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:182551:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>On the Death of that Noble Knight S<hi rend="sup">r</hi> JOHN HARMAN, Who Died <date>the 11<hi rend="sup">th</hi> of October, 1673.</date>
+            </head>
+            <lg>
+               <l>
+                  <hi>BRittania, <hi>Queen of th<gap reason="illegible: damage" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Ocean,</hi>
+                  </hi> bad me write</l>
+               <l>Something memorial of this <hi>Noble Knight;</hi>
+               </l>
+               <l>It muſt be <hi>Great,</hi> or nothing. Nay, ſaid I,</l>
+               <l>Let <hi>Homers</hi> then, or <hi>Virgils</hi> Poetry</l>
+               <l>Record his Deeds, 'Tis not for meaner things</l>
+               <l>To ſpeak, or think of <hi>Admirals</hi> or <hi>Kings.</hi>
+               </l>
+               <l>But <hi>theſe</hi> are long ſince dead; Muſt therefore die</l>
+               <l>This Peerleſs Perſons <hi>Glorious Memory?</hi>
+               </l>
+               <l>No, no, that muſt not be; Rather than fail</l>
+               <l>Something to <hi>try,</hi> I'le with my <hi>ſelf</hi> prevail.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Sea-Nimphs</hi> prolling round the <hi>Watry World</hi>
+               </l>
+               <l>
+                  <hi>Caught up</hi> his <hi>Name</hi> when to and fro 'twas <hi>hurld,</hi>
+               </l>
+               <l>When Guns, Drums, Trumpets, to the Clefts did ſound</l>
+               <l>His Fame, and caus'd them back the ſame Rebound,</l>
+               <l>
+                  <hi>Theſe</hi> to my <hi>Muſe</hi> did courteouſly impart</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>air naked <hi>Truths,</hi> which need no Veils of <hi>Art.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When firſt in <hi>Youth</hi> ſome Voyages he made,</l>
+               <l>To proſecute <hi>Experience</hi> or <hi>Trade,</hi>
+               </l>
+               <l>His worth diſclos'd it ſelf, and made men ſee,</l>
+               <l>None was more <hi>Engliſh Mariner</hi> than he.</l>
+               <l>T<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ough hearty, ſturdy <hi>Oak</hi> our <hi>Ships</hi> do frame</l>
+               <l>Our <hi>Seamen</hi> too (if rightly ſtamp'd) the <hi>ſame</hi>
+               </l>
+               <l>And ſuch was this <hi>Well-timber'd</hi> Man, be ſure,</l>
+               <l>That ſuch hard <hi>Storms</hi> and <hi>Bickerings</hi> could endure.</l>
+            </lg>
+            <lg>
+               <l>In <hi>former Wars, <hi>Spain, Portugal</hi>
+                  </hi> and <hi>Dutch</hi>
+               </l>
+               <l>Will all confeſs, there were not <hi>many ſuch.</hi>
+               </l>
+               <l>
+                  <hi>Drake, Blague</hi> and <hi>Harman, <hi>Names</hi>
+                  </hi> that ſtruck the <hi>Seas</hi>
+               </l>
+               <l>As <hi>Ziſca, Scanderbeg, Hunniades,</hi>
+               </l>
+               <l>Did quaſh the <hi>Land;</hi> Foes huſh'd their ſqualing Brats</l>
+               <l>Only by naming theſe <hi>Great Potentates.</hi>
+               </l>
+               <l>But if thoſe <hi>former Acts</hi> of his muſt be</l>
+               <l>Veil'd by <hi>Oblivion,</hi> be it ſo: yet he</l>
+               <l>By <hi>Latter Deeds</hi> will have his <hi>Name</hi> preſerv'd</l>
+               <l>Wherein he hath his <hi>King and Country</hi> ſerv'd.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>When <hi>Brittiſh <hi>Seas</hi>
+                     </hi> and <hi>Honour</hi> were aſſail'd</l>
+                  <l>By <hi>Belgian <hi>Rivals;</hi>
+                     </hi> when the <hi>Plague</hi> prevail'd <note place="margin">1665</note>
+                  </l>
+                  <l>At home; by which when <hi>moſt mens Courage</hi> fail'd</l>
+               </lg>
+               <l>He <hi>ſnatch'd</hi> ſome <hi>men</hi> from <hi>Death,</hi> Commands and Man'd</l>
+               <l>The <hi>Royal Charles,</hi> by <hi>Royal Charles</hi> Command;</l>
+               <l>And then perform'd his <hi>Manly part;</hi> how well,</l>
+               <l>Let both his <hi>Friends</hi> and <hi>Foes</hi> Spectators tell.</l>
+            </lg>
+            <lg>
+               <l>Next Year was <hi>Sixty</hi> ſix (that fatal Time,</l>
+               <l>When <hi>Londons</hi> old Foundations <hi>burnt</hi> to Lime)</l>
+               <l>
+                  <hi>Rear Admiral</hi> of the <hi>White</hi> then appear'd</l>
+               <l>And by his <hi>Foes</hi> he made his <hi>Henry</hi> fear'd.</l>
+               <l>
+                  <hi>Three <hi>Etna</hi>
+                  </hi>'s did at <hi>once</hi> beſet Her round,</l>
+               <l>Some of her men were <hi>Burnt,</hi> and ſome were <hi>Drown'd:</hi>
+               </l>
+               <l>Yet <hi>then</hi> (as if he did <hi>both Elements</hi> ſcoff)</l>
+               <l>He <hi>fought his, Way,</hi> and brought her bravely off.</l>
+               <l>His <hi>Leg</hi> (but not his <hi>Courage</hi>) <hi>broke;</hi> and then<g ref="char:punc">▪</g>
+               </l>
+               <l>He <hi>ſympathized</hi> with his <hi>maimed men.</hi>
+               </l>
+               <l>
+                  <hi>Knighted,</hi> and <hi>Admiral</hi> made in <hi>Sixty ſeven,</hi>
+               </l>
+               <l>With <hi>Fire-ſhips Two,</hi> and <hi>
+                     <hi>fighting-ships</hi> Eleven,</hi>
+               </l>
+               <l>T' <hi>America</hi> he Steers, and did ſuch <hi>Feats,</hi>
+               </l>
+               <l>Dull <hi>Europeans</hi> will believe us Cheats</l>
+               <l>If we but tell the <hi>Truth.</hi> As, How he ſtorm'd</l>
+               <l>Strong <hi>Martinico, <hi>Wonders</hi>
+                  </hi> there perform'd;</l>
+               <l>Into their <hi>Harbour</hi> how he forc'd his Way,</l>
+               <l>Where <hi>Thirty <hi>Warlike</hi> French</hi> and <hi>Dutch</hi> then lay;</l>
+               <l>
+                  <hi>
+                     <hi>Burnt</hi> Nine, <hi>ſunk</hi> more;</hi> the <hi>reſt</hi> (to ſcape his hands)</l>
+               <l>Did <hi>ſink themſelves,</hi> to <hi>hide</hi> amongſt the Sands.</l>
+               <l>
+                  <hi>Threé Forts</hi> he there <hi>Attaqu'd</hi> and <hi>Fir'd.</hi> And then</l>
+               <l>To <hi>Syrenham</hi> and <hi>Chian</hi> wafts his men:</l>
+               <l>
+                  <hi>Courage</hi> and <hi>Conduct,</hi> there no leſs he ſhew'd,</l>
+               <l>Whereby he thoſe <hi>Two Countreys <hi>ſoon</hi>
+                  </hi> ſubdu'd.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Sev'nty two Vice-Admiral</hi> of the <hi>Blew,</hi>
+               </l>
+               <l>He like a Tyger 'mongſt the <hi>Dutchmen</hi> flew,</l>
+               <l>
+                  <hi>Nine Dutch</hi> begirt his <hi>Charles.</hi> There (ſad to tell)</l>
+               <l>
+                  <hi>Three</hi> or <hi>four hundred</hi> of his <hi>Brave Men</hi> fell.</l>
+               <l>He paid them off; and when no boot to ſtay,</l>
+               <l>He nobly brought his <hi>tattred Hull</hi> away.</l>
+            </lg>
+            <lg>
+               <l>Laſtly, in <hi>Sev'nty thrée,</hi> this preſent Year,</l>
+               <l>His <hi>long-try'd</hi> Courage <hi>laſting</hi> did appear</l>
+               <l>
+                  <hi>Vice Adm'ral</hi> of the <hi>Red.</hi> Though <hi>ſick</hi> and weak</l>
+               <l>When ſcarcely could he <hi>go,</hi> or <hi>ſtand,</hi> or <hi>ſpeak,</hi>
+               </l>
+               <l>Yet could he <hi>fight, direct, encourage, ſee</hi>
+               </l>
+               <l>All well perform'd. Meanwhile <hi>
+                     <hi>poor</hi> Gallant</hi> he</l>
+               <l>Sate like a <hi>Mark</hi> for ev'ry ſhot, in ſight</l>
+               <l>Upon the <hi>Quarter-deck</hi> in ev'ry Fight.</l>
+               <l>We'l not reflect on any man; nor tell,</l>
+               <l>
+                  <hi>Who did amiſs;</hi> only that <hi>He did well.</hi>
+               </l>
+               <lg>
+                  <l>And having <hi>done</hi> his <hi>All,</hi> he then gave o're,</l>
+                  <l>He <hi>made to Port, dropt Anchor, came aſhore,</hi>
+                  </l>
+                  <l>
+                     <hi>Never</hi> to plough the briny <hi>Ocean</hi> more.</l>
+               </lg>
+               <l>From midſt of <hi>Storms, Blood, Noiſe, Confuſion, Fires,</hi>
+               </l>
+               <l>He <hi>cooly, calmly, peaceably</hi> Expires,</l>
+               <l>Whoſe <hi>
+                     <hi>Death</hi> Religious: <hi>Living Actions</hi>
+                  </hi> were</l>
+               <l>
+                  <hi>Valiant, Iuſt, Humble, Patient,</hi> and <hi>Sincere.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To His <hi>LADY.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>Madam, <hi>your</hi>
+                  </hi> loſs is <hi>great,</hi> we muſt confeſs,</l>
+               <l>But yet compar'd, <hi>
+                     <hi>ours</hi> greater</hi> is, <hi>
+                     <hi>yours</hi> leſs;</hi>
+               </l>
+               <l>
+                  <hi>Yours</hi> is a <hi>Private, <hi>ours</hi>
+                  </hi> a <hi>publique</hi> one,</l>
+               <l>In midſt of <hi>ſtorms</hi> (Alas!) our <hi>Pilot</hi>'s gone:</l>
+               <l>Learn <hi>hence</hi> the better to <hi>ſuſtain your Croſs,</hi>
+               </l>
+               <l>Behold! <hi>All England</hi> does <hi>lament your Loſs.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To His <hi>SON.</hi>
+            </head>
+            <lg>
+               <l>YOu <hi>Martial Stripling,</hi> from his <hi>Stock a ſlip,</hi>
+               </l>
+               <l>Make good the <hi>Proverb [Of th' old Block, a chip.]</hi>
+               </l>
+               <l>To imitate him you've gone pretty far,</l>
+               <l>That you a <hi>Youth</hi> command a <hi>Man of War.</hi>
+               </l>
+               <l>He dy'd a <hi>Proteſtant,</hi> and <hi>you</hi> I hope</l>
+               <l>Will live to <hi>make a Tacque</hi> upon the <hi>Pope.</hi>
+               </l>
+               <l>Learn not to <hi>Hector, Drink, Drab, Swear</hi> and <hi>Play;</hi>
+               </l>
+               <l>But as <hi>your Father</hi> did, <hi>Think, Fight</hi> and <hi>Pray.</hi>
+               </l>
+               <l>O that of <hi>this ſort</hi> all <hi>Commanders</hi> were!</l>
+               <l>Then <hi>Brittain</hi> ſhould not need <hi>Invaders</hi> fear:</l>
+               <l>Nor <hi>Belgia</hi> vaunt at poor <hi>Brittania's</hi> wound,</l>
+               <l>When ſhe ſhall hear <hi>th' old Harmans laid aground.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To His <hi>SEA-MEN.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>MAriners</hi> mourn, <hi>Dous Topſail, waſt your Flag,</hi>
+               </l>
+               <l>
+                  <hi>Hand Streamers, Furle:</hi> Now <hi>Courage</hi> lyes a lag</l>
+               <l>And ſneaks <hi>abaft, looſe Anchor</hi> from the, <hi>Bough,</hi>
+               </l>
+               <l>For <hi>Navigation</hi> lyes a <hi>Backstays</hi> now.</l>
+               <l>With <hi>Theſeus <hi>Sails</hi>
+                  </hi> cloath your tall Ships of War,</l>
+               <l>If you want <hi>Blacks,</hi> beſmear your ſelves with <hi>Tar.</hi>
+               </l>
+               <l>With your own hands, while you lye thus <hi>becalm'd,</hi>
+               </l>
+               <l>With <hi>Norway <hi>Gums,</hi>
+                  </hi> let his Corps be <hi>Embalm'd;</hi>
+               </l>
+               <l>And (though you uſe not much to <hi>Weep,</hi> yet) <hi>here</hi>
+               </l>
+               <l>
+                  <hi>Augment the Ocean</hi> with a briny <hi>Tear.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then <hi>wipe your Eyes. Courage my Hearts, a<gap reason="illegible: damage" extent="5+ letters">
+                        <desc>•••••…</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Hoyſe Sails, Give way;</hi> do as you uſe <hi>and ought.</hi>
+               </l>
+               <l>
+                  <hi>Cheer up, Suzzau;</hi> and let your <hi>Enemies</hi> find,</l>
+               <l>Though <hi>Harman</hi>'s dead, <hi>his Men,</hi> are left behind.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the <hi>Year</hi> 167<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+         <div type="license">
+            <p>
+               <unclear>With Allowance.</unclear>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
